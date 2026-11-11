@@ -2,7 +2,7 @@
 
 # Hi, I'm Hryhorii Shalashnyi 👋
 
-### Junior Frontend Developer
+### Fullstack Developer
 
 **React · TypeScript · JavaScript · HTML · CSS**
 
@@ -20,7 +20,7 @@ reusable components, and a smooth user experience.
 
 ## 👨‍💻 About Me
 
-I'm a frontend developer focused on building modern, responsive web applications with
+I'm a fullstack developer focused on building modern, responsive web applications with
 **React, TypeScript, and JavaScript**.
 
 I enjoy transforming ideas and designs into functional interfaces, integrating REST APIs,
@@ -125,9 +125,10 @@ with a layout adapted for desktop and mobile screens.
 
 ## 🗣️ Languages
 
-- 🇺🇦 **Ukrainian:** Native
-- 🇬🇧 **English:** B2
-- 🇩🇪 **German:** A2
+-  **English:** B2
+-  **German:** A2
+-  **Ukrainian:** Native
+
 
 ## 📫 Contact
 
