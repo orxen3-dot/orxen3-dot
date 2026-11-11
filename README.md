@@ -15,7 +15,7 @@ reusable components, and a smooth user experience.
 [Resume](https://drive.google.com/file/d/1AtA0mC9izfAdFP4AXeTQLCh9iOgQ14Pt/view?usp=drivesdk)
 
 </div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=orxen3-dot&theme=buddhism)](https://github.com/orxen3-dot/github-profile-trophy)
 ---
 
 ## 👨‍💻 About Me
