@@ -117,9 +117,9 @@ with a layout adapted for desktop and mobile screens.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orxen3-dot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=orxen3-dot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/orxen3-dot)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orxen3-dot&layout=compact&hide_border=true&theme=transparent)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=orxen3-dot&layout=compact&hide_border=true&theme=transparent)](https://github.com/orxen3-dot)
 
 </div>
 
