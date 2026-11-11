@@ -15,7 +15,7 @@ reusable components, and a smooth user experience.
 [Resume](https://drive.google.com/file/d/1AtA0mC9izfAdFP4AXeTQLCh9iOgQ14Pt/view?usp=drivesdk)
 
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=orxen3-dot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=orxen3-dot)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 👨‍💻 About Me
